@@ -1,0 +1,66 @@
+{
+  "Conversation Management": {
+    "examples": ["hello", "hi", "hey", "good morning", "good evening", "how are you", "start conversation"],
+    "priority": 1
+  },
+  "Account Information": {
+    "examples": ["check my account", "account status", "account balance", "my account details", "account information", "view account"],
+    "priority": 2
+  },
+  "Plan Management": {
+    "examples": ["upgrade plan", "change subscription", "current plan", "plan details", "available plans", "downgrade plan", "change plan"],
+    "priority": 2
+  },
+  "Billing Support": {
+    "examples": ["bill", "invoice", "payment", "billing amount", "pay bill", "billing history", "due date", "outstanding amount"],
+    "priority": 2
+  },
+  "Complaint Management": {
+    "examples": ["complaint", "file complaint", "register complaint", "issue", "problem", "not satisfied", "dissatisfied"],
+    "priority": 3
+  },
+  "Technical Support": {
+    "examples": ["technical issue", "help", "support", "problem", "not working"],
+    "priority": 3
+  },
+  "Internet Issues": {
+    "examples": ["internet slow", "no internet", "internet down", "connection issue", "slow speed", "internet not working", "can't connect"],
+    "priority": 3
+  },
+  "Router Issues": {
+    "examples": ["router", "wifi", "router not working", "wifi password", "router settings", "reset router", "router configuration"],
+    "priority": 3
+  },
+  "Call Issues": {
+    "examples": ["call drop", "no signal", "call quality", "can't make call", "call not connecting", "poor call quality"],
+    "priority": 3
+  },
+  "Network Information": {
+    "examples": ["network coverage", "signal strength", "tower location", "network status", "coverage area"],
+    "priority": 2
+  },
+  "Service Control": {
+    "examples": ["activate service", "deactivate service", "suspend service", "resume service", "service control"],
+    "priority": 2
+  },
+  "VAS Services": {
+    "examples": ["value added services", "vas", "roaming", "caller tune", "data pack", "sms pack"],
+    "priority": 2
+  },
+  "Telecom Knowledge": {
+    "examples": ["what is", "explain", "tell me about", "how does", "information about", "knowledge"],
+    "priority": 1
+  },
+  "Escalation Support": {
+    "examples": ["speak to agent", "human agent", "escalate", "transfer", "manager", "supervisor"],
+    "priority": 4
+  },
+  "Feedback": {
+    "examples": ["feedback", "rate", "review", "suggest", "opinion", "satisfaction"],
+    "priority": 1
+  },
+  "Conversation End": {
+    "examples": ["bye", "goodbye", "thank you", "thanks", "exit", "end", "close", "done"],
+    "priority": 1
+  }
+}
